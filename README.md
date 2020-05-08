@@ -1,6 +1,6 @@
 # Media-Player
 an application to act and replace the windows media player implemented using WPF. 
-It have the following requirement:
+It have the following:
 Run the Audio file with different formats. (If it is a video, it displays it also “Optional”)
 Has Play/Pause button
 Fast Forward Button
